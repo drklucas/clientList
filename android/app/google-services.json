@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801808014637",
+    "project_id": "desafio-care-lucas",
+    "storage_bucket": "desafio-care-lucas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801808014637:android:6fc0e63bf72dd1b49a87a4",
+        "android_client_info": {
+          "package_name": "com.example.client_list_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801808014637-6s70j6c17fradr77pn9ith40hqh1akbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDuojcVEIZWWHD88NioVBLvAJyss-9s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801808014637-6s70j6c17fradr77pn9ith40hqh1akbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
